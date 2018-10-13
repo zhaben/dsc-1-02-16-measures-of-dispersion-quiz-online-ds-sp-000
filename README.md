@@ -109,7 +109,7 @@ Using the data above:
 # Your answer here 
 ```
 
-#### Plot a histogram to verify your answers
+#### Plot a boxplot to verify your answers
 
 
 ```python
